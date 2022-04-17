@@ -30,7 +30,7 @@ The deployed application is simple to use and only requires the user to search f
 
 ## Questions
 
-Visit my gitHub[socialcancer](https://github.com/socialcancer).
+Visit my gitHub [socialcancer](https://github.com/socialcancer).
 
 ## Credits
 
